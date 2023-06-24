@@ -1,0 +1,83 @@
+[
+  {
+    "border": "normal",
+    "floating": "auto_off",
+    "fullscreen_mode": 0,
+    "layout": "splith",
+    "marks": [],
+    "percent": 0.5,
+    "type": "con",
+    "nodes": [
+      {
+        "border": "normal",
+        "floating": "auto_off",
+        "layout": "stacked",
+        "marks": [],
+        "percent": 0.37,
+        "type": "con",
+        "nodes": [
+          {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+              "height": 998,
+              "width": 934,
+              "x": 3529,
+              "y": 39
+            },
+            "marks": [],
+            "name": "React Testing Part 1 | The Odin Project - Google Chrome",
+            "percent": 0.5,
+            "swallows": [
+              {
+                "instance": "^google-chrome$"
+              }
+            ],
+            "type": "con"
+          },
+          {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+              "height": 632,
+              "width": 734,
+              "x": 0,
+              "y": 0
+            },
+            "marks": [],
+            "name": "Terminal - ~/scripts/layout_manager.sh",
+            "percent": 0.5,
+            "swallows": [
+              {
+                "instance": "^xfce4-terminal$"
+              }
+            ],
+            "type": "con"
+          }
+        ]
+      },
+      {
+        "border": "none",
+        "current_border_width": 2,
+        "floating": "auto_off",
+        "geometry": {
+          "height": 1384,
+          "width": 1258,
+          "x": 1287,
+          "y": 15
+        },
+        "marks": [],
+        "name": "aliases.zsh - react-testing - Visual Studio Code",
+        "percent": 0.63,
+        "swallows": [
+          {
+            "instance": "^code$"
+          }
+        ],
+        "type": "con"
+      }
+    ]
+  }
+]

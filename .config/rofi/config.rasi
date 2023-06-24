@@ -1,0 +1,15 @@
+configuration {
+  modes: [ combi ];
+  combi-modes: [ window, drun, run ];
+}
+
+@theme "Arc-Dark"
+
+element-text {
+    font: "VictorMono Nerd Font 12";
+}
+
+listview {
+  transparency: "80";
+  lines: 10;
+}
